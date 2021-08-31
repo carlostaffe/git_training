@@ -1,7 +1,4 @@
+Another line
 Hi! I'm Bob. I'm new here. I've been here for a while now.
-<<<<<<< HEAD
 line added locally
 another line added in UI
-=======
-Another line
->>>>>>> parent of 914d1bb... fixed changes  Alice --- stash

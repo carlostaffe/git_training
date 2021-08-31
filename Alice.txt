@@ -1,10 +1,6 @@
 Hi! I'm Alice. I'm a file someone added to this repository a while ago.
 second line
-third line
 forth line
 edited via UI
-<<<<<<< HEAD
 third line
 sarasa
-=======
->>>>>>> parent of 914d1bb... fixed changes  Alice --- stash
