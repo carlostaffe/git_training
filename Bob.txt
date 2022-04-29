@@ -1,5 +1,3 @@
 Another line
 Hi! I'm Bob. I'm new here. I've been here for a while now.
 line added locally
-another line added in UI
-Last line added in UI
