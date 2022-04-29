@@ -1,2 +1,6 @@
 #commented out line 
 New lines to get conflict
+Hi! I'm Alice. I'm a file someone added to this repository a while ago.
+second line
+third line
+forth line
